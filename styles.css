@@ -1,0 +1,178 @@
+/*
+This is a good layout for a mobile-first CSS template.
+Following this flow will minimize the number of styles you need to write and will ensure you are thinking, designing and developing mobile-first.
+Most of your styles get written like standard CSS, but for your mobile presentation. Generally speaking, a good mobile presention will stretch out nicely for larger screens.
+
+Sometimes, when we stretch out to larger screens, we need to make minor tweaks for the larger devices -- you can make these tweaks in the tablet media query, or if the issue exists on desktop only, the desktop media query.
+You will find this is far easier than the opposite task of using CSS to cram your desktop experience into a mobile device.
+*/
+/*********************************************************************
+ LOADS IN A NICE RESET TO ENSURE ALL BROWSERS HAVE THE SAME BASE STYLES
+*********************************************************************/
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css');
+
+/*********************************************************************
+  YOUR MOBILE/BASE STYLES GO HERE
+*********************************************************************/
+
+/* Apply border-box sizing to all elements - makes width/height calculations easier */
+* {
+    box-sizing: border-box;
+}
+
+/* Set base font size to 16px for consistent em calculations across browsers */
+body,
+html {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 16px;
+}
+
+/* Make all images responsive - they scale down to fit their container */
+img {
+    width: 100%;
+}
+
+/* Large heading size for main title */
+h1 {
+    font-size: 3em;
+}
+
+/* Medium heading size with gray color for section headers */
+h3 {
+    font-size: 1.75em;
+    color: gray;
+}
+
+/* Small heading style for individual tip titles - uppercase and centered */
+h4 {
+    text-transform: uppercase;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+/* Center align all h3 section headers */
+h3 {
+    text-align: center;
+}
+
+h5 {
+font-size: 1.3em;
+color: rgb(24, 24, 24);
+}
+
+/* Set readable line spacing and font size for body text and captions */
+figcaption,
+p {
+    line-height: 1.5em;
+    font-size: 1.2em;
+}
+
+/* Style horizontal rules as thick gray bars */
+hr {
+    height: 4px;
+    background: gray;
+}
+
+/* Full width containers with padding for mobile layout */
+.container,
+.icon-container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+/* Full width figures (image containers) centered */
+figure {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Ensure main images fill their containers */
+.main_img {
+    width: 100%;
+}
+
+/* Style image captions with smaller gray text */
+.head-photo {
+    font-size: 1em;
+    color: gray;
+    margin-left: 15px;
+}
+
+/* Style images within icon containers - block display, limited size, centered */
+.icon-container img {
+    display: block;
+    max-width: 150px; /* Keeps icons reasonably small */
+    margin: auto; /* Centers the images horizontally */
+}
+
+/* Center the text content under each graphic */
+.graphic-text {
+    margin: auto;
+}
+
+/*********************************************************************
+  YOUR TABLET/DESKTOP STYLES GO HERE
+*********************************************************************/
+@media(min-width: 681px) {
+    /* Any adjustments for tablets and larger go here.
+    Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
+    
+    /* Make intro paragraph very wide for better readability on large screens */
+    p.intro {
+        max-width: 95%;
+    }
+
+    /* Limit main content width and center it on large screens */
+    .container {
+        max-width: 700px;
+    }
+
+    /* Make h3 headings match the width of other content containers */
+    h3 {
+        max-width: 900px;
+        /* margin: 0 auto; Centers the heading */
+    }
+
+    /* Container for the three-column layout - centers the columns as a group */
+    .icon-container {
+        /* use text-align center to center the inline-block elements */
+        text-align: center; /* Centers the inline-block columns within the container */
+        max-width: 900px; /* Matches width of other content */
+        margin: 0 auto; /* Centers the entire container */
+    }
+
+    /* Individual columns in the three-column layout */
+    .graphic {
+        /* Use inline-block for side-by-side layout */
+        display: inline-block; /* Allows elements to sit side by side */
+        width: 25%; /* Each column takes 25% of container width */
+        vertical-align: top; /* Aligns tops of columns (not baselines) */
+        margin: 0 2%; /* Add some spacing between columns */
+        text-align: left; /* Reset text alignment for content inside (overrides center from parent) */
+    }
+
+    /* Add padding around the text content in each graphic column */
+    .graphic-text {
+        padding: 10px;
+    }
+
+}
+
+/*********************************************************************
+  YOUR DESKTOP-ONLY STYLES GO HERE
+*********************************************************************/
+@media(min-width: 900px) {
+    /* Any adjustments for desktop and larger go here.
+    Note these styles will be applied to anything 729px or larger -- so desktop */
+    
+    /* Keep main text containers at reasonable width on very large screens */
+    .container {
+        max-width: \550px;
+    }
+
+    /* Limit figure width slightly less than text for visual variety */
+    figure {
+        max-width: 700px;
+    }
+}

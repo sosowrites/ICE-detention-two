@@ -1,0 +1,1398 @@
+detention_facility_code,detention_facility_name,state
+AAORDMD,Ordnance Road Correctional Center,MD
+ABQHOLD,Albuquerque Hold Room,NM
+ABRXSPA,Abraxas Academy Detention Center,PA
+ABTHOLD,Abilene Hold Room,TX
+ADACOID,Ada County Jail,ID
+ADAIRKY,Adair County Regional Jail,KY
+ADAMSCO,Adams County Jail,CO
+ADAMSMS,Adams County Det Center,MS
+ADAMSWA,Adams County,WA
+ADDCOVT,Addison County Jail,VT
+ADLNTCA,Adelanto ICE Processing Center,CA
+AFRC,Artesia Family Residential Center,NM
+AGAHOLD,Agana INS,GU
+AGC,Aguadilla SPC,PR
+AGMDCCA,Anaheim Global Medical Center,CA
+AIRHOPR,"Airport Hotel, Saj.",PR
+AKCOOKI,"Cook Inlet Pretrial, Anch",AK
+AKFAIRB,Fairbanks Corr Ctr,AK
+AKHIGHL,Highland Mtn Cor Ctr,AK
+AKKETCH,Ketchikan Regional CC,AK
+AKLEMON,"Lemon Creek, Juneau,AK",AK
+AKMATSU,"Matsu Pretrial, Palmer AK",AK
+AKMCYOU,McLaughlin Youth Center,AK
+AKPALMC,Palmer Correctional Cente,AK
+AKPSYNJ,Anne Klein Phsychiatric Institute,NJ
+AKWILCC,Wildwood State Corr. Ctr.,AK
+AKWILPT,Wildwood Pre-Trial Fac.,AK
+ALAMCNC,Alamance Co. Det. Facility,NC
+ALAMOCO,Alamosa County Jail,CO
+ALAMOTX,Alamo Police Dept.,TX
+ALBCONY,Albany County Jail,NY
+ALBEMVA,Albemarle-Charlottesville,VA
+ALBHOLD,Albany Holdroom,NY
+ALEXAAL,Alexandria City Jail,VA
+ALEXAVA,Alexandria City Jail,VA
+ALHAMCA,Alhambra City Jail,CA
+ALLEGNY,Allegany County Jail,NY
+ALLEGPA,Allegheny Co. Jail,PA
+ALLENIN,Allen County Jail,IN
+ALMHOLD,Alamosa Holdroom,CO
+AMTHOLD,Amarillo Hold Room,TX
+ANCHOAK,Anchorage Jail,AK
+ANDRWTX,Andrews Sherrif's Office Co Jail,TX
+ANJUVMN,Anoka Co. Juvenile Center,MN
+APACHAZ,Apache Co. Jail,AZ
+APIBHCA,Alvarado Parkway Institute,CA
+APPSCLA,Allen Parish Public Safety Complex,LA
+ARAPACO,Arapahoe County Jail,CO
+ARLCOVA,Arlington Co Jail,VA
+AROOSME,Aroostook County Jail,ME
+ARRMCCA,Arrowhead Regional Med Center,CA
+ARTESNM,Artesia City Jail,NM
+ARTSINM,Artesia Law Enforcement Center,NM
+ASHECNC,Ashe County Jail,NC
+ASHRSFL,Atlantic Shores Hospital,FL
+ATLANGA,Atlanta Pretrial Detn Ctr,GA
+ATLHOLD,Atlanta Dist. Hold Rm,GA
+ATTHOLD,"Athens, TX Hold Room",TX
+AURORCO,Aurora City Jail,CO
+AUSHOLD,Austin DRO Hold Room,TX
+AVPARLA,Avoyelles Parish Prison,LA
+AZDCTUC,AZ Dpt Corrections Tucson,AZ
+AZSPFLO,Arizona State Prison Comp,AZ
+AZSPPER,Perryville State Prison,AZ
+AZSVCPC,Arizona Service Prison Complex,AZ
+BAILECA,George Bailey Detent Faci,CA
+BAKERFL,Baker County Sheriff Dept.,FL
+BALDWAL,Baldwin County Cor. Center,AL
+BALHOLD,Bal D D & P,MD
+BANNOID,Bannock County Jail,ID
+BARNSMA,Barnstable County,MA
+BARRECA,Barrett Honor Camp,CA
+BASILLA,Basile Detention Center,LA
+BAYAMPR,Bayamon Hospital,PR
+BEAVRPA,Beaver County Jail,PA
+BEDCITX,Bedford City Jail,TX
+BEDFOOH,Bedford Heights City,OH
+BEDFOPA,Bedford County Jail,PA
+BEFAMPA,Berks County Family Shelter,PA
+BEHOSNY,"Bellevue Hospital, Manhat",NY
+BEJUVPA,Berks Co. Juvenile,PA
+BENTOWA,Benton County,WA
+BERGENJ,Bergen County Jail,NJ
+BERKSPA,"Berks County Jail, PA",PA
+BERNANM,Bernalillo County Det Ctr,NM
+BESECPA,Berks County Secured Juvenile,PA
+BFGHITX,"Byrd's Foster Group Home, Inc",TX
+BHCALCA,Alhambra BHC Hospital,CA
+BHFLDMI,Bronson Hospital Fieldstone Center,MI
+BHMHOLD,Birmingham Hold Room,AL
+BIGHOMT,"Big Horn County Jail, MT",MT
+BIGHOWY,"Big Horn County Jail, WY",WY
+BILHOLD,Billings Hold Room,MT
+BKLHOLD,Bakerfield Hold,CA
+BLBNATX,Bluebonnet Det Fclty,TX
+BLHHOLD,Bellingham BPS ERO Holdroom,WA
+BLOUNTN,Blount County Justice Ctr,TN
+BOEHOLD,Elp Boeing Dr Holdroom,TX
+BOIHOLD,Boise Hold Room,ID
+BONNEID,Bonneville Co. Jail,ID
+BOONEKY,Boone County Jail,KY
+BOPALM,Allenwood (Med) FCI,PA
+BOPBRO,Brooklyn MDC,NY
+BOPBUT,Butner Fed.Corr.Inst.,NC
+BOPCAA,USP Canaan,PA
+BOPCNV,Nashville Comm. Corr.,TN
+BOPCUM,Cumberland FCI,MD
+BOPDAL,Dalby Correctional Institute,TX
+BOPFAI,Fairton FCI,NJ
+BOPGIL,FCI Gilmer,WV
+BOPGUA,Guaynabo MDC (San Juan),PR
+BOPHON,Honolulu Federal Detention Center,HI
+BOPLEX,Lexinton Fed.Med Center,KY
+BOPLOF,Lompoc FCI,CA
+BOPLOM,Lompoc USP,CA
+BOPLOS,Los Angeles Met.Det.Ctr.,CA
+BOPLTL,"La Tuna Federal Sattelite, Low",TX
+BOPMAR,Marion USP,IL
+BOPMCR,Mccreary USP,KY
+BOPMEM,Memphis Fed.Corr.Inst.,TN
+BOPMIA,Miami FCI (Former MCC),FL
+BOPMIM,Miami Fed.Det.Center,FL
+BOPMRG,Morgantown Fed.Corr.Inst.,WV
+BOPNEO,Northeast Ohio Correctional Center,OH
+BOPOAD,Oakdale Fed.Det.Center,LA
+BOPPHX,Phoenix Fed.Corr.Inst.,AZ
+BOPPOL,Pollock USP,LA
+BOPRAE,"McRae Correctional Facility, CCA",GA
+BOPRBK,Ray Brook Fed.Corr.Inst.,NY
+BOPRCH,Rochester Fed.Med.Center,MN
+BOPSDC,San Diego MCC,CA
+BOPSET,Seatac Fed.Det.Center,WA
+BOPSHE,Sheridan Fed.Corr.Inst.,OR
+BOPSPG,Springfield Fed.Med.Cntr,MO
+BOPTCN,Tucson Fed.Corr.Inst.,AZ
+BOPTCP,US Penitentiary Tucson,AZ
+BOPTHA,Terre Haute USP,IN
+BOPTRV,Three Rivers FCI,TX
+BOPVIM,FCI Victorville,CA
+BOSHOLD,Boston Holdroom,MA
+BOSSRLA,Bossier Parish Cor. Center,LA
+BOTTIND,Bottineau Co. ND Jail,ND
+BOWCOTX,Bowie County Jail,AR
+BPC,Boston SPC,MA
+BRADEFL,Bradenton Detention Center,FL
+BRANCMI,"Branch Co, Coldwater, MI",MI
+BRCHOLD,Brush Holdroom,CO
+BREMEIA,"Bremer Co Jail, Iowa",IA
+BRGMCFL,Broward General Medical Center,FL
+BRINDMA,Bristol Cnty Ndartmouth,MA
+BRKHOLD,Berks Hold Room,PA
+BROADMT,Broadwater County Jail,MT
+BROCRFL,Broward Correctional,FL
+BROJAFL,Broward County Jail,FL
+BROKSTX,Brooks County Jail (Contract),TX
+BROMMNY,Broome County Jail,NY
+BROWNSD,Brown County Jail,SD
+BROWNWI,Brown County Jail,WI
+BRWNSTX,Brownsville Police Dept.,TX
+BSAHOLD,Broadview Service Staging,IL
+BSCDRTX,BSCC Cedar Hill Unit,TX
+BSCHOLD,Big Spring Hold Room,TX
+BSCORTX,BSCC Airpark Unit,TX
+BSFLTTX,BSCC Flightline Unit,TX
+BSGDFTX,BSCC Giles Darby Facility,TX
+BSNTRTX,BSCC Interstate Unit,TX
+BSQUETX,Bosque County Sheriff's Dept.,TX
+BTV,Buffalo SPC,NY
+BUFHOLD,Buffalo Hold Room,NY
+BURLEND,"Burleigh Co. Jail, ND",ND
+BURNETX,Burnet County Jail,TX
+BUTLEKS,Butler County Jail,KS
+BUTLEOH,Butler County Jail,OH
+BWDGICA,Best Western Dragon Gate Inn,CA
+BWMARCA,Best Western Marina,CA
+BXCHSNY,Bronxcare Health System,NY
+CACCJAM,SCC/Jamestown,CA
+CACFBAK,Baker CCF,CA
+CACFDON,RJ Donovan Correc Fac,CA
+CACFLEO,CCF/Leo Chesney,CA
+CACFMCF,Mcfarland CCF,CA
+CACFMES,Mesa Verde ICE Processing Center,CA
+CACHEUT,Cache Co. Jail,UT
+CACTYCA,California City Corections Center,CA
+CADCCAL,CDC Calipatria IHP,CA
+CADESVI,Desert View,CA
+CAIRONW,Ironwood State Prison,CA
+CAJUVMN,Carver Co. Juvy Detention,MN
+CALDWMO,Caldwell County Jail,MO
+CALHOMI,"Calhoun Co., Battle Cr,MI",MI
+CAMBRPA,"Cambria County Jail, PA",PA
+CAMCOWY,Campbell County Jail,WY
+CAMEDAZ,Central Arizona Medical,AZ
+CAMENCE,"Calif. Men Colony, East",CA
+CAMENCW,"Calif. Men Colony, West",CA
+CAMERTX,Cameron County Jail,TX
+CARBOPA,Carbon County Correctionl,PA
+CARBOWY,Carbon County Jail,WY
+CARDFVA,Caroline Detention Facility,VA
+CARJAMN,Carver County Jail,MN
+CARROMD,Carroll County Detention Center,MD
+CASCAMT,"Cascade County Jail, MT",MT
+CASPCAL,Calipatria State Prison,CA
+CASPSAC,Csp-Sacramento,CA
+CASSCND,Cass County Jail,ND
+CASSCNE,Cass County Jail,NE
+CASSJCA,Casa San Juan,CA
+CATAHLA,Catahoula Correctional Center,LA
+CATTANY,Cattaraugus County Jail,NY
+CAWVALL,West Valley,CA
+CAYUGNY,Cayuga County Jail,NY
+CBENDTX,Coastal Bend Det. Facility,TX
+CBRRSNC,Cabarrus County Jail,NC
+CCADCAZ,CCA Cent.AZ.Det.Ctr.,AZ
+CCAFLAZ,"CCA, Florence Correctional Center",AZ
+CCAHUTX,T Don Hutto Residential Center,TX
+CCANOOH,CCA Northeast OH Corrects,OH
+CCASDCA,Otay Mesa Detention Center,CA
+CCHHSIL,Cook County Hospital-JHS,IL
+CEMEDFL,Cedars Medical Center,FL
+CENTRWV,Central Regional Jail,WV
+CFREDVA,Clarke Fred'k Winch.,VA
+CGRMCAZ,Casa Grande Reg. Med. Center,AZ
+CHACONY,Chautauqua County Jail,NY
+CHAHOLD,Charlotte Amalie Holdroom,VI
+CHARLSC,Charleston County Correct,SC
+CHASEKS,Chase County Jail,KS
+CHATHGA,Chatham Co Jail,GA
+CHAVENM,Chavez Det Crt,NM
+CHELAWA,Chelan Co. Regional Jail,WA
+CHEMUNY,Chemung County Jail,NY
+CHENANY,Chenango County Jail,NY
+CHEROOK,Cherokee County Jail,OK
+CHIHOLD,Chicago Hold Room,IL
+CHIPPMI,"Chippewa Co., SSM",MI
+CHLHOLD,"Charleston, SC Hold Room",SC
+CHMCINY,Courthouse USM Cntl Islip,NY
+CHMHOLD,Champlain Hold Room,NY
+CHRISMO,Christian Co Sheriff Dept,MO
+CHRLTFL,Charlotte County Jail,FL
+CHYHOLD,Cheyenne Holdroom,WY
+CIBOCNM,Cibola County Correctional Center,NM
+CIBOLNM,Cibola County Det Ctr,NM
+CINHOLD,Cincinnati Holdroom,OH
+CIPHOLD,Central Islip Hold Room,NY
+CITRUFL,Citrus County Jail,FL
+CKHOSFL,Columbia Kendal Hospital,FL
+CLARIPA,Clarion  County Corrections,PA
+CLARKWA,Clark County Jail,WA
+CLAYCIN,Clay County Justice Center,IN
+CLEHOLD,Cleveland Hold Room,OH
+CLICONY,Clinton County Jail,NY
+CLINTPA,Clinton County Corr. Fac.,PA
+CLMHOLD,Columbus Holdroom,OH
+CLTHOLD,Charlotte Hold Room,NC
+CMEDHPR,Centro Medico Hospital,PR
+CMPJVNY,Compass House Shelter,NY
+CNGHOLD,Chattanooga Hold Room,TN
+CNTGRIL,Centegra Hospital,IL
+COAHOLD,"Columbia, SC Holdroom",SC
+COBBJGA,Cobb County Jail,GA
+COCHIAZ,Cochise Co Jail Bisbee AZ,AZ
+COCONAZ,Coconino Co Detention Facility,AZ
+COLCASC,Columbia Care Center,SC
+COLLIFL,Collier County Sheriff,FL
+COLOMNY,Colombia County Jail,NY
+COLUMOR,Columbia County Jail,OR
+COLUMPA,Columbia County Jail,PA
+COMFTFL,Comfort Suites Hotel,FL
+CONCOCA,Contra Costa Co. Jail,CA
+CONCOLA,Concordia Parish C C,LA
+CONEJCO,Conejos County Jail,CO
+CONVEWY,Converse County Jail,WY
+CONWECA,Contra Costa Co Jail/West,CA
+COOCONH,Coos County Jail,NH
+COOSCOR,Coos Co. Jail,OR
+COSTACA,Costa Mesa College Hosp,CA
+COWJVWA,Cowlitz Co. Juv. Det.,WA
+CRGHOLD,Craig Holdroom,CO
+CRIHOLD,Cedar Rapids Hold Room,IA
+CROWGMN,Crow Wing County Jail,MN
+CRTOSCA,Cerritos  College Hosp,CA
+CRYCCTX,Crystal City Corr. Center,TX
+CSCNWWA,NW ICE Processing Ctr,WA
+CSDHOLD,Colo Springs Den HSI Hold,CO
+CSPHOLD,Casper Holdroom,WY
+CSYJVNY,Casey House Shelter,NY
+CTLAFSL,Laffayette Sheriff's Lock,CT
+CTYORCI,York Corr Inst,CT
+CULBETX,Culberson County Sheriff's,TX
+CULPEVA,Culpeper Co. Adult Det. Center,VA
+CUMBEME,Cumberland County Jail,ME
+CURRYNM,Curry County Det Fac,NM
+CUSTEMT,Custer County Jail,MT
+CVREGVA,Central VA Regional Jail,VA
+DAKOTNE,Dakota County Jail,NE
+DALCOTX,Dallas County Jail-Lew Sterrett,TX
+DALHOLD,Dallas F.O. Hold,TX
+DAUPHPA,"Dauphin Cnty Jail, PA",PA
+DAVIDTN,Davidson Co. Sheriff Dept,TN
+DAWSOMT,Dawson County Jail,MT
+DCDOCDC,DC Dept Of Corrections,DC
+DEAPDMI,Dearborn Police Dept.,MI
+DECCSMY,Delaware Correction Center,DE
+DEKALAL,Dekalb County Detention Center,AL
+DEKALGA,Dekalb Co Jail,GA
+DELAWPA,Delaware Co Jail,PA
+DELTACO,Delta County Jail,CO
+DENCICO,Denver Justice Center,CO
+DENHOLD,Denver Hold Room,CO
+DENICDF,Denver Contract Det. Fac.,CO
+DENIICO,Denver CDF II,CO
+DENVECO,Denver County Jail,CO
+DEPCOGU,Department Of Corrections,GU
+DEPYOGU,Department Of Youth Affairs,GU
+DETHOLD,"U.S. Immigration, Detroit",MI
+DHDFNJ,Delaney Hall Detention Facility,NJ
+DIIHBMD,Days Inn Inner Harbor Baltimore,MD
+DLAMOCA,Del Amo Psychiatric Hospital,CA
+DLRHOLD,Del Rio DRO Hold Room,TX
+DNHMCCO,Denver Health Medical Center,CO
+DOCORNE,Douglas County Correction,NE
+DODGEWI,"Dodge County Jail, Juneau",WI
+DONAANM,Dona Ana County Detention Facility,NM
+DORCHMD,Dorchester Co Det Cntr,MD
+DOUGLCO,Douglas County Detention Center,CO
+DOUGLOR,Douglas Co. Jail,OR
+DOUGLWI,Douglas Co. Wisconsin,WI
+DRURYCO,Drury Inn,CO
+DSMCNTX,DSMC - Del Sol Medical Center,TX
+DSMHOLD,Des Moines Hold Room,IA
+DSRTVCA,Desert Valley Hospital,CA
+DULHOLD,Duluth Hold Room,MN
+DUPAGIL,Dupage County Jail,IL
+DURHOLD,Durango Holdroom,CO
+DUTCHAK,Dutch Harbor City Jail,AK
+DUVALFL,Duval/Jacksonville Jail,FL
+DVDHOLD,Dover Holdroom,DE
+EAGLECO,Eagle County Jail,CO
+EAZ,Eloy Federal Contract Fac,AZ
+ECC,El Centro SPC,CA
+ECLECTX,Ector County L.E.C.,TX
+ECMCBNY,Erie County Medical Center,NY
+ECOLOWA,Econolodge Motel,WA
+ECTORTX,Ector County Correction Center,TX
+EDCHOLD,Eden Hold Room,TX
+EDDCONM,Eddy County Jail,NM
+EDENDTX,Eden Det Center,TX
+EDNBGTX,Edinburg Police Dept.,TX
+EDNDCTX,Eden Detention Ctr,TX
+EDNHOLD,Eden Det Ctr Hold Room,TX
+EHDLGTX,East Hidalgo Detention Center,TX
+EIRHONY,Erie Co Holding Center,NY
+ELBERCO,Elbert County Jail,CO
+ELGPDIL,Elgin Police Dept. Jail,IL
+ELKHAIN,Elkhart County Jail,IN
+ELMORID,Elmore County Jail,ID
+ELPASCO,El Paso County Jail (CO),CO
+ELPCOTX,El Paso County Jail (TX),TX
+ELVDFTX,El Valle Detention Facility,TX
+ELZICDF,Elizabeth Contract D.F.,NJ
+EMBCRNC,Embassy Suites By Hilton,NC
+EMBSYCO,Embassy Suites Hotel,CO
+EMESACA,East Mesa Detent Facility,CA
+EPBHSTX,El Paso Behavioral Health System,TX
+EPC,El Paso SPC,TX
+EPCJUVI,El Paso SPC Juvenile,TX
+EPLTATX,El Paso LTAC Hospital,TX
+ERICONY,Erie County Holding Center,NY
+ERICOPA,"Erie County Jail, PA",PA
+ESSEXMA,"Essex Co. Jail, Middleton",MA
+ESSEXNJ,Essex County Jail,NJ
+ESSEXNY,Essex County Jail,NY
+ETOWAAL,Etowah County Jail (AL),AL
+ETWHOLD,Etowah ERO Hold Room,AL
+EUGHOLD,Eugene Holdroom,OR
+EULESTX,Euless City Jail,TX
+FAICOVA,Fairfax Co Jail,VA
+FAULKAR,Faulkner County Jail,AR
+FAULKSD,Faulk County Jail,SD
+FAYETKY,Fayette County Detention Center,KY
+FAYHOLD,Fayetteville Hold Room,AR
+FCLT8CA,Facility 8 Detention Facility,CA
+FCOHOLD,Frederick Holdroom,CO
+FERRYWA,Ferry County Jail,WA
+FIPCAGA,Annex Folkston IPC,GA
+FLATHMT,Flathead County Jail,MT
+FLBAKCI,Baker C. I.,FL
+FLBHCFL,Ft Lauderdale Behavor Hlth Ctr,FL
+FLDADCI,Dade Correctional Inst,FL
+FLHOSFL,Fort Lauderdale Hospital,FL
+FLMARIC,Marion Correctional Inst.,FL
+FLO,Florence SPC,AZ
+FLOYDGA,Floyd County Jail,GA
+FLSPSTA,"Florida St. Pris.,Starke",FL
+FMYHOLD,Fort Myers ERO Holdroom,FL
+FORSYNC,Forsyth County Jail,NC
+FRACOVT,"Franklin County Jail, VT",VT
+FRANKWA,Franklin County,WA
+FRDHOLD,Frederick Holdroom,CO
+FRECOCA,Fresno County Jail,CA
+FREDEMD,Frederick County Det. Cen,MD
+FREEBMN,"Freeborn County Jail, MN",MN
+FREHOLD,Fresno Holdroom,CA
+FREMOCO,"Fremont County Jail, CO",CO
+FREMOWY,"Fremont County Jail, WY",WY
+FRFLDWY,Fairfield Inn & Suites,WY
+FRIOCTX,Frio County Jail,TX
+FRMVLVA,ICA - Farmville,VA
+FSAHOLD,Fort Smith Holdroom,AR
+FSF,Florence Staging Facility,AZ
+FXADCVA,Fairfax Co. Adult Detention Center,VA
+GADRYJM,D. Ray James Prison,GA
+GALLAMT,Gallatin County Jail,MT
+GARVIOK,Garvin County Jail,OK
+GASTNNC,Gaston County Jail,NC
+GCLECOK,Grady County Law Enforcement Ctr,OK
+GEAUGOH,Geauga County Jail,OH
+GENESNY,Genesee County Jail,NY
+GFCORND,Grand Forks County Correc,ND
+GFJUVND,Grand Forks Co. Juvenile,ND
+GIJUVAZ,Gila County Juvenile Det Center,AZ
+GJCHOLD,Grand Junction Holdroom,CO
+GLADEFL,Glades County Detention Center,FL
+GLEPDCA,Glendale Police Dept,CA
+GLOUCNJ,Gloucester County Jail,NJ
+GOSHEWY,Goshen County Jail,WY
+GPCHOLD,Great Plains CI Holdroom,OK
+GRANTOR,Grant County Jail,OR
+GRANTWA,Grant County,WA
+GRAYSKY,Grayson County Detention Center,KY
+GREENMA,Franklin House of Corrections,MA
+GREENMO,Greene County Jail,MO
+GRFHOLD,Grand Forks Hold Room,ND
+GRIHOLD,Grand Island Hold Room,NE
+GRMHOLD,Grand Rapids Holdroom,MI
+GRRHOLD,Greer Hold Room,SC
+GRYDCKY,Grayson County Det Center (Female),KY
+GSCHOLD,Glenwood Springs Holdroom,CO
+GUADATX,Guadalupe Cty Jail,TX
+GUDOCHG,Dept Of Corrections-Hagatna,GU
+GWINNGA,Gwinnett County Jail,GA
+HAILEID,Haile Det. Center,ID
+HALLJGA,Hall Co Jail,GA
+HAMPDMA,Hampden Co.House Of Corr.,MA
+HARDEFL,Hardee County Jail,FL
+HARDJIA,Hardin Co Jail,IA
+HARFOCT,Hartford Corr Center,CT
+HARHOLD,Hartford Office,CT
+HARRIGA,Harris County Jail,GA
+HASHENE,Hall County Sheriff,NE
+HASKLTX,Rolling Plains Detention Center,TX
+HBGHOLD,Harrisonburg Hold Room,VA
+HCPSYTX,Harris County Psychiatric Center,TX
+HDLGOTX,Hidalgo Police Dept.,TX
+HELHOLD,Hel District Custody,MT
+HENDENC,Henderson County Det. Fac.,NC
+HENDENV,Henderson Detention,NV
+HENDETX,Henderson County Jail,TX
+HENDRFL,Hendry County Jail,FL
+HENHOLD,Hendersonville Hold Room,NC
+HERNAFL,Hernando County Jail,FL
+HHWHOLD,INS District Office,HI
+HICOJFL,Hillsborough County Jail,FL
+HIDALNM,Hidalgo County Detention Center,NM
+HIDALTX,Hidalgo County Jail,TX
+HILLCMT,Hill County Justice Center,MT
+HLGHOLD,Harlingen Hold Room,TX
+HLYCHIL,Holy Cross Hospital,IL
+HMCHOTX,Harlingen Medical Center,TX
+HNRMCFL,Henry Regional Medical Center,FL
+HOKLYTX,Hockley County Jail,TX
+HOSPSPR,Hospital Pavia-Santurce,PR
+HOTELMA,Ramada Hotel,MA
+HOUHOLD,Houston FO Holdroom,TX
+HOUICDF,Houston Contract Det.Fac.,TX
+HOWARMD,Howard County Det Cntr,MD
+HRLGNTX,Harlingen Police Dept.,TX
+HRREGVA,Hampton Roads Regional Jail,VA
+HSF,Harlingen Staging Facility,TX
+HUDSONJ,Hudson County Jail,NJ
+HUDSPTX,Hudspeth County Jail,TX
+IAHSFTX,George Bush Intercontinental,TX
+IBPSMIA,Miami Border Patrol,FL
+IFIHOLD,Idaho Falls Hold Room,ID
+ILPICKN,Pinckneyville Correctional Center,IL
+IMPCOCA,Imperial County Jail,CA
+INDCMIC,In Dept. Of Corrections,IN
+INPHOLD,Indianapolis Hold Room,IN
+IRADFCA,Imperial Regional Adult Det Fac,CA
+IRWINGA,Irwin County Detention Center,GA
+ISHOSNY,"Beth Israel Hospital, Manhattan",NY
+IWAHOLD,AZ Rem Op Coord Center (AROCC),AZ
+JACKSOR,Jackson Co Jail,OR
+JAJUVOR,Jackson County Juvenile,OR
+JAKHOLD,Jackson MS Hold Room,MS
+JAMESGA,Main Folkston IPC Drjames,GA
+JAXHOLD,Jacksonville Sub-Office,FL
+JCRLYTX,Joe Corley Processing Ctr,TX
+JEFFECO,Jefferson County Jail,CO
+JEFFEID,Jefferson County Jail,ID
+JEFFEIL,Jefferson County Jail,IL
+JEFFEKS,Jefferson County Jail,KS
+JEFFEMT,Jefferson County Jail,MT
+JEFFENY,Jefferson County Jail,NY
+JEFFETX,Jefferson County Jail,TX
+JENADLA,Lasalle ICE Processing Center,LA
+JENATLA,Alexandria Staging Facility,LA
+JENNIMO,Jennings City Jail,MO
+JFKTSNY,JFK International Ap - T7,NY
+JHALLCA,San Diego County Juv.Hall,CA
+JHMCJNY,Jamaica Hospital Med Ctr,NY
+JHRWLTX,Jack Harwell Detention Center,TX
+JKPCCLA,Jackson Parish Correctional Center,LA
+JMHOSFL,Jackson Memorial Hospital,FL
+JOHNSTX,Johnson County Jail,TX
+JOSEPOR,Josephine Co. Jail,OR
+JYCMCNJ,Jersey City Med Ctr,NJ
+KANDIMN,Kandiyohi Co. Jail,MN
+KANECIL,Kane County Jail,IL
+KANHOLD,Kansas City Holdroom,MO
+KANKEIL,Kankakee County Jail,IL
+KARNETX,Karnes Cty Corr Ctr,TX
+KCCDCTX,Karnes County Civil Det. Facility,TX
+KCHOSNY,Kings County Hospital,NY
+KCOJFOK,Kay Co Justice Facility,OK
+KENOSWI,Kenosha County Jail,WI
+KENTCMI,"Kent Co.,Grand Rapids,MI",MI
+KERCOCA,Kern County Jail (Lerdo),CA
+KINNETX,Kinney County Jail,TX
+KITTIWA,Kittitas County Jail,WA
+KLAMCOR,Klamath Co Jail,OR
+KNXDFTN,Knox County Detention Facility,TN
+KNXHOLD,Knoxville Hold Room,TN
+KODIAAK,Kodiak City Jail,AK
+KOOTEID,Kootenai County,ID
+KRHUBFL,Krome/Miami Hub,FL
+KRNRCTX,Karnes County Residential Center,TX
+KRO,Krome North SPC,FL
+KROHOLD,Krome Hold Room,FL
+LACKAPA,"Lackawana Cnty Jail, PA",PA
+LAFERTX,La Feria Police Dept.,TX
+LAKCOMT,Lake County Jail,MT
+LAKMCFL,Lakeside Medical Center,FL
+LANCACA,Mira Loma Det.Center,CA
+LANECOR,Lane Co Jail,OR
+LAPAZAZ,La Paz County Adult Det. Fac.,AZ
+LAPLACO,La Plata County Jail,CO
+LARCOWY,Laramie County Jail,WY
+LARIMCO,Larimer County Jail,CO
+LASALTX,Lasalle County Jail,TX
+LASANCO,Las Animas County Jail,CO
+LASWOCA,Las Colinas Women Det Fac,CA
+LAVACTX,Lavaca County Jail,TX
+LAWINCI,Winn Corr Institute,LA
+LAWREPA,Lawrence County Jail,PA
+LAWRESD,"Lawrence Co. Jail, SD",SD
+LBKHOLD,Lubbock Hold Room,TX
+LDFHOLD,Loveland Holdroom,CO
+LEACONM,Lea County Jail,NM
+LEHIGPA,"Lehigh County Jail, PA",PA
+LEWISMT,Lewis & Clark County Jail,MT
+LEWISNY,Lewis County Jail,NY
+LEXINSC,Lexington County Jail,SC
+LFRESTX,Los Fresnos Police Dept.,TX
+LIMESTX,Limestone Det Center,TX
+LINCOMO,Lincoln County Sheriff's,MO
+LINCONE,Lincoln County Jail,NE
+LINNCOR,Linn Co Jail,OR
+LINNJIA,Linn County Jail,IA
+LIVINNY,Livingston County Jail,NY
+LKLNDLA,Lakeland Nursing Home,LA
+LLUMCCA,Loma Linda University Med Center,CA
+LONPDAR,Lonoke Police Dept Det.Ctr,AR
+LOSCJCA,Los Angeles County Jail-Twin Tower,CA
+LOSHOLD,Los Cust Case,CA
+LOUCOVA,Loudoun County,VA
+LOUHOLD,Louisville Hold Room,KY
+LOYMCIL,Loyola Medical Center,IL
+LPAPSAZ,La Palma Corr Ctr Apso,AZ
+LPD77CA,Los Angeles Police PD 77th Div.,CA
+LPLCCAZ,La Palma Correctional Center,AZ
+LRAHOLD,Little Rock Hold Room,AR
+LRDHOLD,Laredo Detention Center Hold Room,TX
+LRDICDF,Laredo Processing Center,TX
+LRKBHFL,Larkin Behavioral Health Svcs,FL
+LRKMCFL,Lower Keys Medical Center,FL
+LRKNHFL,Larkin Hospital,FL
+LSFHOLD,Los Fresnos Hold Room,TX
+LSHOSMA,Lemuel Shattuck Hospital,MA
+LSRDCTX,La Salle Co Regional Det. Center,TX
+LTVHOLD,"Lorton, VA Hold Room",VA
+LUBBOTX,Lubbock County Jail,TX
+LUFKNTX,Lufkin Police Dept.,TX
+LUNCONM,Luna County Jail,NM
+LVGHOLD,Las Vegas Hold Room,NV
+LYOLAIL,Loyola Center For Health,IL
+MABSHOS,Bwater St Hosp Bridgewate,MA
+MACCOMI,"Macomb Co.Mt.Clemens,MI.",MI
+MADISID,Madison County Jail,ID
+MADISMS,"Madison Co. Jail, MS.",MS
+MADISNY,Madison County Jail,NY
+MAHONOH,Mahoning County Jail,OH
+MANHOLD,Manchester Holdroom,NH
+MAPLEOH,Maple Heights City Jail,OH
+MARICOR,Marion Co Jail,OR
+MARIOIN,Marion County Jail,IN
+MARSHIA,Marshall County Jail,IA
+MARTIFL,Martin County Jail,FL
+MARTNTX,Martin County Jail,TX
+MATEWKS,Tewksbury State Hospital,MA
+MATSHOS,Taunton State Hospital,MA
+MAVERTX,Maverick County Jail,TX
+MCCDCTX,Mcclennan County Detention Center,TX
+MCCLETX,Mclennan County Jail,TX
+MCFAJAZ,Maricopa County Jail,AZ
+MCHENIL,McHenry County Sheriff's,IL
+MCKINNM,Mckinley County Adult Det. Cen.,NM
+MCMEDAZ,Maricopa Medical Center,AZ
+MEADESD,"Meade Co. Jail, SD",SD
+MECKLNC,Mecklenburg (NC) Co Jail,NC
+MEDHOLD,Medford Sub-Office,OR
+MEMHOLD,Memphis Hold Room,TN
+MEMRHFL,Memorial Regional Hosp.,FL
+MERCEIL,Mercer County Corrections,IL
+MERCYFL,Mercy Hospital,FL
+MESJACO,Mesa County Jail,CO
+METROFL,Metro Dade Jail,FL
+MEYTHCT,Maine Youth Center - Long Creek,ME
+MGAHOLD,Montgomery Hold Room,AL
+MIAHOLD,Miami (Miramar) Hold Room,FL
+MIDBIMA,Middlesex County H.O.C.-Billerica,MA
+MIDDLNJ,Middlesex County Jail,NJ
+MIDLATX,Midland Detention Center,TX
+MILHOLD,Milwaukee Holdroom,WI
+MILLRAR,Miller County Jail,AR
+MINERMT,Mineral County Jail,MT
+MINICID,Minicassia Det. Center,ID
+MINNESD,Minnehaha County Jail,SD
+MISCOMO,Mississippi County Detention Cente,MO
+MISSOMT,Missoula County,MT
+MIWPRPH,Walter Reuther Psychiatric Center,MI
+MLDHOLD,"Midland, TX ERO Holdroom",TX
+MLJHOLD,Mount Laurel Hold Room,NJ
+MNCOAKC,"Minn.C.F, Oak Park Hgts",MN
+MNROEMI,Monroe County Sheriff/Jail-Main,MI
+MNTGMAL,Montgomery City Jail,AL
+MOFFECO,Moffat County Jail,CO
+MOHAVAZ,Mohave Co Corr Center,AZ
+MONCJAL,Montgomery City Jail,AL
+MONMONJ,Monmouth County Jail,NJ
+MONROFL,Monroe County Jail,FL
+MONROMI,Monroe County Detention-Dorm,MI
+MONRONY,Monroe County Jail,NY
+MONTGAL,Montgomery Co Mac Sim Butler D.F.,AL
+MONTGMO,Montgomery County Jail,MO
+MONTGNY,Montgomery County Jail,NY
+MONTGPA,"Montgomery Cnty Jail, PA",PA
+MONTGTX,Montgomery County Jail,TX
+MORGACO,Morgan County Jail,CO
+MORGNMO,Morgan County Sheriff's Dept,MO
+MOROWOH,Morrow Co. Correctional Facility,OH
+MOUNTND,"Mountrail Co. Jail, ND",ND
+MPSIPAN,Saipan Department Of Corrections,MP
+MRCDSTX,Mercedes Police Dept.,TX
+MSF,Miami Staging Facility,FL
+MSKGNMI,Muskegon County Jail,MI
+MTGHOLD,Montgomery Hold Rm,TX
+MTGPCTX,Montgomery Processing Ctr,TX
+MTPPDCA,Monterey Park Police Dept,CA
+MULTNOR,Multnomah County Jail,OR
+MUSCAIA,Muscatine County Jail,IA
+MUSIKCA,James A Musick Facility,CA
+MUSSEMT,Musselshell County Jail,MT
+NASHUMA,Nashua St. Jail,MA
+NASSAFL,Nassau County Jail,FL
+NASSANY,Nassau Co Correc Center,NY
+NATCHLA,Natchitoches Parish Det. Center,LA
+NATROWY,Natrona County Jail,WY
+NAVSOAZ,Navajo County Sheriff,AZ
+NBRMCFL,North Broward Medical Center,FL
+NEJUVNE,N.E.Neb.Juvenile Services,NE
+NEWHOLD,New/INS Os Hold Room,NJ
+NFMIGFL,Neighbor-Family Miami Gardens,FL
+NFSMTGA,"Neighbor-Family, Stone Mountain",GA
+NGDCTGA,North Georgia Detention Center,GA
+NHSPCON,"NH State Prison, Concord",NH
+NIAGANY,Niagara County Jail,NY
+NIOBRWY,Niobrara County Jail,WY
+NIXHCTX,Nix Home Care,TX
+NNREGVA,Northern Neck Reg. Jail,VA
+NOBLEMN,Nobles Co. Jail,MN
+NOJUVOR,Northern Oregon Juv.Det.,OR
+NOLHOLD,Nol D D & P,LA
+NOLVGNV,North Las Vegas,NV
+NORCOOR,Northern Oregon Corr.Fac.,OR
+NORFOMA,Norflk Cnty Dedham,MA
+NORFOVA,Norfolk City Jail,VA
+NORHOLD,Norfolk Sub-Office Hold,VA
+NRPHOLD,North Platte Hold Room,NE
+NSVHOLD,Nashville Hold Room,TN
+NVJDCVA,No. Va. Juvenile Det - ICE,VA
+NVSDCNV,Nevada Southern Detention Center,NV
+NWHNVNC,New Hanover Co Det Center,NC
+NWRCCMN,NW Regional Corrections Center,MN
+NWREGVA,Northwest Reg. Adult Det.,VA
+NYADIRC,"Adirondack CF, Raybrook",NY
+NYBUFFC,"Buffalo CF, Alden,Ny",NY
+NYCHOLD,Nyc Hold Room,NY
+NYEPANV,Nye County Sheriff-Pahrump,NV
+NYFISHC,Fishkill C.F. Beacon Ny,NY
+NYMOHOC,Mohawk Correctional,NY
+NYOGDNC,Ogdensburg Correctional,NY
+NYORLNC,Orleans Correctional,NY
+NYULSTC,"Ulster CF, Napanoch",NY
+OAK,Oakdale Fed. Det. Center,LA
+OAKHOLD,Oakdale Holding Room,LA
+OCCWJCA,Orange County Central Women's Jail,CA
+OCIRCCA,Orange Count Intake Release Fac.,CA
+ODESSTX,Odessa Detention Center,TX
+OGCMCCA,Orange Co Global Medical Center,CA
+OGLECIL,Ogle County Jail,IL
+OGRMCNY,Orange Regional Med Ctr,NY
+OGUHOLD,Ogden Hold Room,UT
+OKANOWA,Okanogan Co. Jail,WA
+OKCHOLD,Oklahoma City Hold Room.,OK
+OKCOJOK,Oklahoma County Jail,OK
+OKMULOK,Okmulgee County Jail,OK
+OLACCLA,Lasalle Corr Ctr Olla,LA
+OLDHAKY,Oldham County Jail,KY
+OMAHOLD,Omaha FO Hold,NE
+ONECONY,Oneida County Jail,NY
+ONONDNY,Onondaga County Jail,NY
+ONTARNY,Ontario County Jail,NY
+ORANGFL,Orange County Jail,FL
+ORANGNY,Orange County Jail,NY
+ORLEANY,Orleans County Jail,NY
+ORLHOLD,Orlando Hold Room,FL
+ORPARLA,Orleans Parish Sheriff,LA
+OSAHOKS,Osawatamie State Hospital,KS
+OTEROCO,Otero County Jail,CO
+OTERONM,Otero County Detention,NM
+OTROPNM,Otero County Prison Facility,NM
+OTRPCNM,Otero Co Processing Center,NM
+PALMBFL,Palm Beach County Jail,FL
+PAMREVA,Pamunkey Reg Jail,VA
+PARKCMT,Park County Det Center,MT
+PARKCWY,Park County Jail,WY
+PARKJCO,Park County Jail,CO
+PASADCA,Pasadena City Jail,CA
+PASSANJ,Passaic County Jail,NJ
+PAVHRPR,Pavia Hospital - Hato Rey,PR
+PCJDCIL,Peoria County Juv Det Center,IL
+PCSHOLD,Pecos Hold Room,TX
+PDNHOLD,Pdn Hold Room,TX
+PECOSTX,Pecos Criminal Justice Center,TX
+PEMBIND,Pembina County Jail,ND
+PENDOWA,Pend Orielle Correctional Facility,WA
+PENDRNC,Pender County Jail,NC
+PENNISD,Pennington County Jail SD,SD
+PENOBME,Penobscot County Jail,ME
+PERRYAL,Perry County Corr. Center,AL
+PHELPNE,Phelps County Jail,NE
+PHIHOLD,Phi District Office,PA
+PHILLMT,"Phillips County Jail, MT",MT
+PHOHOLD,Phoenix Dist Office,AZ
+PIC,Port Isabel SPC,TX
+PICKJOH,Pickaway County Jail,OH
+PIERCND,Pierce County Jail,ND
+PIKCOPA,Pike County Jail,PA
+PIMAJAZ,Pima County Jail,AZ
+PINALAZ,Pinal County Jail,AZ
+PINELFL,Pinellas County Jail,FL
+PINEPLA,Pine Prairie ICE Processing Center,LA
+PISCAME,Piscataguis County Jail,ME
+PITHOLD,Pittsburgh Holdroom,PA
+PKEHOLD,Pike County ERO Hold Room,PA
+PLATTMO,Platte County Jail,MO
+PLATTWY,Platte County Jail,WY
+PLMBHTX,Palms Behavioral Health,TX
+PLMVWTX,Palmview Police Dept.,TX
+PLRMCCA,Palmdale Regional Medical Center,CA
+PLYMOMA,Plymouth Co Cor Facilty,MA
+PMHOSFL,Palmetto Hospital,FL
+PMREGVA,Piedmont Reg Jail,VA
+POLKCTX,IAH Secure Adult Det. Facility,TX
+POLKJIA,Polk County Jail,IA
+POMHOLD,"Portland, ME Holdroom",ME
+POMONCA,Pomona City Jail,CA
+PONDEMT,Pondera County Jail,MT
+POOHOLD,Portland District Office,OR
+POTTAIA,Pottawattamie County Jail,IA
+PRESITX,Presidio County Jail,TX
+PRLDCTX,Prairieland Detention Center,TX
+PRLHOLD,Prairieland Suboffice Hold Room,TX
+PROHOLD,Providence Holdroom,RI
+PROWECO,Prowers County Jail,CO
+PRUHOLD,Provo Hold Room,UT
+PRVEGAL,Vega Alta Det. Facility,PR
+PRYCOAL,Perry County Jail,AL
+PTISBTX,Port Isabel Police Dept.,TX
+PUEBLCO,Pueblo County Jail,CO
+PUEHOLD,Pueblo Holdroom,CO
+PULASIL,Pulaski County Jail,IL
+PWHOSFL,Palms West Hospital,FL
+PWILLVA,Prince William,VA
+QLTYSCA,Quality Suites,CA
+QUEHONY,Queens House Of Detention,NY
+RAADCMN,"Ramsey ADC Annex, SPM",MN
+RADDFGA,Robert A Deyton Detention Fac,GA
+RAPPSVA,Rapp Sec Center,VA
+RCKISIL,Rock Island Correctional Center,IL
+RCMHOLD,Richmond Sub-Office Hold,VA
+RDUHOLD,Raleigh Hold Room,NC
+REDETTX,Reeves County Det. Center,TX
+REDHOLD,Redding Hold Room,CA
+REHOSIL,Riveredge Hospital,IL
+REJAITX,Reeves County Jail,TX
+REJUVTX,Reeves Co. Juv. Det. Ctr.,TX
+RENHOLD,Reno Hold Room,NV
+RENSSNY,Rensselaer Co Sheriff,NY
+RGHOSTX,Rio Grande St.Hospital,TX
+RGRNDTX,Rio Grande Detention Center,TX
+RGS,Rio Grande Valley Staging,TX
+RICECKS,Rice County Det Center,KS
+RICHMVA,Richmond City Jail,VA
+RICRANS,"ACI, Cranston RI",RI
+RIIHOLD,Rock Island Hold Room,IL
+RIOCCCA,Rio Cosumnes Corrections-RCCC,CA
+RIOGRCO,Rio Grande County Jail,CO
+RIVERCA,Riverside County Sheriff,CA
+RMKHOLD,Roanoke Sub-Office Hold Room,VA
+RNDLLTX,Randall County Jail,TX
+ROANOVA,Roanoke County Jail,VA
+ROBERSD,"Roberts Co. Jail, SD",SD
+ROCKIIL,Rock Island County Jail,IL
+ROCKINH,Rockingham County Jail,NH
+ROCKIVA,Rockingham Co. Jail,VA
+RONKEVA,Roanoke City Jail,VA
+ROSEAMN,Roseau County Jail,MN
+ROSEBMT,Rosebud County Jail,MT
+ROUTTCO,Routt County Jail,CO
+RPCHOLD,Rapid City Hold Room,SD
+RRFINWA,Red Roof Inn,WA
+RRIVRIL,Rock River Health Care,IL
+RSREGVA,Riverside Reg Jail,VA
+RSWHOLD,Roswell Hold Room,NM
+RVRCCLA,River Correctional Center,LA
+RWCCMLA,Richwood Cor Center,LA
+SAAHOLD,Santa Ana DRO Holdroom,CA
+SACHOLD,Sacramento Hold,CA
+SACITCA,Santa Ana City Jail,CA
+SACRACA,Sacramento County Jail,CA
+SAGHOLD,San Angelo Holdroom,TX
+SAIHOLD,Saipain Hold,MP
+SAJHOLD,DHS/ICE/DRO,PR
+SALEMNJ,Salem County Correctional Facility,NJ
+SALHOLD,Salisbury Hold Room,MD
+SALINNE,Saline County Jail,NE
+SAMBCMI,Samaritan Behavioral Center,MI
+SANANCA,Santa Ana County Jail,CA
+SANDONM,Sandoval County Det Ctr,NM
+SANJAIL,Sangamon County Jail,IL
+SANMINM,San Miguel County Det Ctr,NM
+SANTANM,Santa Fe County Jail,NM
+SARJUNE,Sarpy County Juvenile,NE
+SARPYNE,Sarpy County Jail,NE
+SBARBCA,Santa Barbara County Jail,CA
+SBDHOLD,San Bernadino Hold Room,CA
+SBERNCA,San Bernardino Co. Jail,CA
+SBNTOTX,San Benito Police Dept.,TX
+SCNORCA,Santa Clara Co Main Jail,CA
+SCOTTIA,Scott County Det.Facility,IA
+SCOTTMO,Scott County Jail,MO
+SCOTTNE,Scotts Bluff Co Jail,NE
+SCRUZAZ,Santa Cruz Co Jail AZ,AZ
+SDHOSCA,San Diego Area Hospital,CA
+SDPROCA,S.D. County Probation,CA
+SEAHOLD,Seattle Field Office Hold Room,WA
+SEBASAR,Sebastian County Det Cnt,AR
+SENECNY,Seneca County Jail,NY
+SENECOH,Seneca County Jail,OH
+SFCORNM,Santa Fe Cornell Det. Fac.,NM
+SFDHOLD,Sioux Falls Hold Room,SD
+SFRHOLD,SFR Hold Room,CA
+SGUHOLD,"St. George, UT Holdroom",UT
+SHACOKS,Shawnee County Dept Of Corr.,KS
+SHAJUKS,Shawnee County Juv.Det.Ctr,KS
+SHECOVA,Shenandoah Co Jail,VA
+SHERBMN,Sherburne County Jail,MN
+SHERIMT,Sheridan County Jail,MT
+SHERIWY,Sheridan County Jail,WY
+SILBOMT,Butte-Silver Bow County Jail,MT
+SILERTN,Silverdale/Hamilton County,TN
+SISAONE,Sleep Inn Suites Airport,NE
+SITKAAK,"Sitka City Jail, Sitka AK",AK
+SJS,San Juan Staging,PR
+SJUANNM,San Juan County Detention Center,NM
+SJUANTX,San Juan Police Dept.,TX
+SJUHOLD,San Juan Airport Hold Room,PR
+SLCHOLD,Salt Lake City Hold Room,UT
+SLJUVCA,San Luis Obispo Co. Juven,CA
+SLOBICA,San Luis Obispo Co Jail,CA
+SLRDCAZ,San Luis Regional Det Center,AZ
+SLSLCUT,Salt Lake County Jail,UT
+SMARYMD,St. Mary's Co Det Cntr,MD
+SNAHOLD,San Antonio Dro Hold Room,TX
+SNDCOCA,San Diego County Jail,CA
+SNDHOLD,SND District Staging,CA
+SNJHOLD,SNJ Hold Room,CA
+SOBAYCA,South Bay Detent Facility,CA
+SOLONOH,Solon City Jail,OH
+SOMERME,Somerset County Jail,ME
+SONMACA,Sonoma Co Main Adult Det,CA
+SOUTECO,Southern Ute Detention Center,CO
+SPGHOLD,Springfield Dro Hold,MO
+SPHOSCA,San Pedro Peninsula Hospital,CA
+SPIPDTX,South Padre Island Police Dept.,TX
+SPMHOLD,US INS/Detention & Deportation,MN
+SPRNGOR,Springfield City Jail,OR
+SRJDFID,Snake River Juvenile,ID
+SSMHOLD,Sault Sainte Marie Holdroom,MI
+STAHOLD,Saint Albans Hold Room,VT
+STCDFTX,South Texas ICE Processing Center,TX
+STCLAMI,St. Clair County Jail,MI
+STCROWI,St. Croix County Jail,WI
+STDHOLD,South Texas/Pearsall Hold Room,TX
+STEUBNY,Steuben County Jail,NY
+STEVEWA,Stevens County Jail,WA
+STFRCTX,South Texas Fam Residential Center,TX
+STJOSAZ,St. Joseph's Hospital & Med. Cen.,AZ
+STJOSCA,St. Joseph's Hospital,CA
+STK,Stockton Staging Facility,CA
+STLAWNY,St Lawrence County Jail,NY
+STLHOLD,St. Louis Holdroom,MO
+STMARAZ,St Mary's Hospital,AZ
+STMARCA,St Mary Medical Center,CA
+STMRYIL,St. Mary of The Nazareth,IL
+STOPDIL,Stone Park Police Dept.,IL
+STORYIA,Story County Jail,IA
+STRAFNH,Strafford Co Dept Of Corr,NH
+STTAMLA,St Tammany Parish Jail,LA
+STTCJVI,St T Criminal Just Complx,VI
+STUHOLD,Stuart Hold Room,FL
+STUTSND,"Stutsman Co. Jail, ND",ND
+STWRTGA,Stewart Detention Center,GA
+SUFFOMA,Suffolk Hoc Sbay,MA
+SUFFONY,Suffolk Co.Correc Fac,NY
+SUMMIUT,Summit County Jail,UT
+SUNNYWA,Sunnyside Jail,WA
+SUSSEDE,"Sussex Co Pris,Geotwn,DE",DE
+SUSSENJ,Sussex County Jail,NJ
+SWEETWY,Sweetwater County Jail,WY
+SXCHOLD,Sioux City Hold Room,IA
+TALHOLD,Tallahassee Hold Room,FL
+TALLAMS,Tallahatchie Co Corr Facility,MS
+TAMHOLD,Tampa Hold Room,FL
+TAYLOTX,Taylor County Adult Det.,TX
+TELLECO,Teller County Jail,CO
+TEMPLCA,Temple Medical,CA
+TENSALA,Tensas Parish Det. Cntr.,LA
+TETONWY,Teton County Detention Center,WY
+TFALLID,Twin Falls County Jail,ID
+TFIHOLD,Twin Falls Hold Room,ID
+TGREETX,Tom Green Cty Jail,TX
+THPSCTX,Thop Sierra Campus Elp,TX
+TIOGANY,Tioga County Jail,NY
+TITUSTX,Titus County Jail,TX
+TLACYCA,Theo Lacy Facility,CA
+TNWESDF,Western Tennessee Det. Fac.,TN
+TOOELUT,Tooele County Jail,UT
+TOOLEMT,Toole County Jail,MT
+TOORANM,"Torrance/Estancia, NM",NM
+TORHOLD,Tornillo Adult Hold Room,TX
+TRAVITX,Travis County Jail,TX
+TRICOIL,Tri-County Jail,IL
+TUCHOLD,Tucson INS Hold Room,AZ
+TULCOOK,Tulsa County Jail,OK
+TULHOLD,Tulsa Hold Room,OK
+TXAHOLD,Texarkana Holdroom,TX
+TXHUNTS,Huntsville State P.,TX
+UINTAWY,Uinta County Jail,WY
+UINTCUT,Uintah County Jail,UT
+UMATCOR,Umatilla Co Jail,OR
+UMCEPTX,University Med Center of El Paso,TX
+UMIAHFL,University Of Miami Hospital,FL
+UNIONNM,Union County Detention Center,NM
+UNIONSD,Union County Jail,SD
+UPSTANY,Upstate University Hospital,NY
+USMS2TX,US Marshals  SDTX,TX
+USMS3TX,US Marshals  SDTX,TX
+USMSDFL,"US Marshals,S.Dist.FL",FL
+USMSDMS,"US Marshals, S.Dist, MS",MS
+USMVT,"US Marshal's, Vermont",VT
+USMWDLA,"US Marshals, W.D. LA.",LA
+UTAHCUT,Utah County Jail,UT
+UVALDTX,Uvalde County Jail,TX
+VALJUTX,Val Verde County Juvenile,TX
+VALVETX,Val Verde Detention Center,TX
+VBHOSTX,Valley Baptist Hospital,TX
+VENHOLD,Ventura Custody Case,CA
+VENTUCA,Ventura County Jail,CA
+VIRBEVA,Virginia Beach,VA
+VISTACA,Vista Detention Facility,CA
+VNBRNMI,Van Buren Township PD,MI
+VPREGVA,Virginia Peninsula Reg. Jail,VA
+VRK,Varick Street SPC,NY
+VTCHTDN,Chittenden Reg. Cor. Facility,VT
+VTDCORR,VT. Dept. Of Corrections,VT
+VTSTALB,Northwest State Correctional Ctr.,VT
+VVGMCCA,Victor Valley Global Med Center,CA
+VVSHOLD,Shreveport Hold Room,LA
+WACLATX,Central Texas Detention Facility,TX
+WAJAIMN,Washington County Jail,MN
+WAKECNC,Wake County Sheriff Dept.,NC
+WAKULFL,Wakulla County Jail,FL
+WALSHND,Walsh County Jail,ND
+WALWOWI,Walworth County Jail,WI
+WARCOTX,"Ward Cty Jail, Monahans",TX
+WARDCND,Ward County Jail,ND
+WASATUT,Wasatch County Jail,UT
+WASCONY,Washington County Jail,NY
+WASHAWY,Washakie County Jail,WY
+WASHCUT,Washington County Jail,UT
+WASHIAR,Washington County Jail,AR
+WASHICO,Washington County Jail,CO
+WASHIME,Washington County Jail,ME
+WASHOLD,Washington Field Office,VA
+WASHONV,Washoe County Jail,NV
+WASHTMI,"Washtenaw Co, An Arbor,MI",MI
+WAUKEWI,Waukesha County Jail,WI
+WAYNEMI,"Wayne County, Detroit",MI
+WAYNENY,Wayne County Jail,NY
+WBATOLA,West Baton Rouge Det Ctr,LA
+WCCBXTX,Bexar County Wackenhut Annual Det.,TX
+WCCPBFL,Broward Transitional Center,FL
+WCCSDCA,Wackenhut Corrections Corp,CA
+WCRDFTX,Willacy Co  Regional Detn Facil,TX
+WCTHOLD,Waco DRO Hold Room,TX
+WEBDCTX,Webb County Detention Center (CCA),TX
+WEBERUT,Weber County Jail,UT
+WESHOLD,Westminster Custody,CA
+WHITFGA,Whitfield County Jail,GA
+WICHOLD,Wichita Holdroom,KS
+WIDODGE,"Dodge Corr Institute, Wau",WI
+WILLCTX,Willacy County Detention Center,TX
+WILLITN,Williamson County Jail,TN
+WILLITX,Williamson County Jail,TX
+WINCOTX,Winkler County Jail,TX
+WKBHMFL,West Kendall Baptist Hosp,FL
+WMHOSCA,White Memorial Hospital,CA
+WMLNDPA,Westmoreland County Jail,PA
+WOAKSTX,West Oaks Hospital,TX
+WORCEMD,Worcester Co. Jail,MD
+WSTMCCA,Western Medical Center,CA
+WTREGVA,Western Tidewater Reg. Jail,VA
+WTXDFTX,West Texas Detention Facility,TX
+WVEASTR,Eastern Regional Jail,WV
+WVNORTH,Northern Regional Jail,WV
+WVREGWV,WV Regional Jail & Corr.,WV
+WVSCENT,South Central Regional Jail,WV
+WYATTRI,Wyatt Detention Center,RI
+WYMCONY,Wyoming County Jail,NY
+YAKHOLD,Yakima Sub-Office,WA
+YANCOSD,Yankton Co. Jail SD,SD
+YATESNY,Yates County Jail,NY
+YAVAPAZ,Yavapai County Jail,AZ
+YAVCVAZ,Yavapai County Detention Center,AZ
+YELLOMT,Yellowstone County Jail,MT
+YIKIMWA,Yakima County,WA
+YORCOPA,"York County Jail, PA",PA
+YORCOSC,York County Detention Center,SC
+YORKCME,York County Jail,ME
+YUBAJCA,Yuba County Jail,CA
+YUMHOLD,Yuma Holdroom,AZ
+ZAVCOTX,Zavala County Jail,TX
+FIPCMGA,Folkston Main IPC,GA
+HESPCAZ,Holiday Inn Express Casa De La Luz,AZ
+ALESSAZ,Stes On Scottsdale Casa De Alegria,AZ
+MSVPCPA,Moshannon Valley Processing Center,PA
+HAVACTX,Hotel Ava Casa Do Tranquilidade,TX
+WINWYAZ,Wingate Wyndham Casa Esperanza,AZ
+BWEPATX,Best Western Casa De Estrella,TX
+CISEPTX,Comfort Suites Casa Consuelo,TX
+LQWCSTX,La Quinta Wyndham Casa Do Sonho,TX
+CSCLQTX,La Quinta Wyndham Casa De Paz,TX
+PCKNSAL,Pickens County Det Ctr,AL
+MCAHOLD,Mcallen Hold Room,TX
+HCPSCMS,Hancock Co Pub Sfty Cplx,MS
+GLDSACA,Golden State Annex,CA
+BOPMVC,Moshannon Valley Correctional,PA
+HISMCTX,Hampton Inn & Stes Mcallen,TX
+YRKHOLD,York Hold Room,PA
+BCORCPA,Berks County Residential Center,PA
+FINNEKS,Finney County Jail,KS
+SPOHOLD,Spokane Hold Room,WA
+HIEXSTX,Holiday Inn Expr & Stes Pearsall,TX
+SUPHDTX,Super 8 By Wyndham,TX
+NBGHOLD,Newburgh Holding,NY
+HIPANAZ,Hampton Inn Pho Airport N,AZ
+FLORHAZ,Florence Hospital,AZ
+SSHBWTX,Surestay Hotel Best West,TX
+WVIRGVA,Western Virginia Regional Jail,VA
+BELCOTX,Bell County Jail,TX
+BWRGMTX,Best West Rose Grdn I&S,TX
+IMPHOLD,Imperial Sub Office Hold Room,CA
+RDHEATX,Radisson Htl Elp Airport,TX
+LQSNATX,La Quinta Inn By Wyndham SNA,TX
+HTLPPTX,Hotel Pharr Plaza,TX
+UVHSATX,University Hospital,TX
+HISPAAZ,Holiday Inn & Ste Pho Ap,AZ
+HCAHCTX,HCA Houston Hc Conroe,TX
+DISPTAZ,Drury Inn Stes Pho Tempe,AZ
+HISEPTX,Hampton Inn & Stes Elp Ap,TX
+MHNHHTX,Memorial Hermann NW Hosp,TX
+DISSATX,Drury Inn & Stes SNA Ap,TX
+PTISATX,Pear Tree Inn SNA Airport,TX
+SLINPAZ,Sleep Inn Phoenix,AZ
+TASTDTX,Trusted Adult South Tex Dilley FSC,TX
+WNTHOLD,Wenatchee Hold Room,WA
+HIELPTX,Holiday Inn Express & Suites,TX
+SP8WWTX,Super 8 Wyndham Weslaco,TX
+CISAETX,Comfort Inn Ste Elp Airp,TX
+PVLYHCA,Paradise Valley Hospital,CA
+SSPBAAZ,Staybridge Ste Pho  B A ,AZ
+FDLHOLD,Ferndale Hold Room,WA
+CSHEPTX,Chase Ste Hotel Elp,TX
+VWHMCAZ,Valleywise Health Med Ctr,AZ
+RICHOLD,Richland Hold Room,WA
+CPPAPAZ,Crowne Plaza Phoenix Ap,AZ
+FRIRHTX,Frio Regional Hospital,TX
+HIESPAZ,Holiday Inn Exp Phoenix,AZ
+LASHOLD,Las Cruces Hold Room,NM
+TAKARTX,Trusted Adult Karnes FSC,TX
+THHHBTX,Tex Health Huguley Hosp,TX
+WOODBIA,Woodbury County Jail,IA
+TVMSATX,Texas Vista Medical Center,TX
+HNDMCTX,Hendrick Medical Center,TX
+MVMCMAZ,Mountain Vista Med Ctr,AZ
+HIESATX,Holiday Inn Exp San Antonio,TX
+BRDFDFL,Bradford County Jail,FL
+LEVYCFL,Levy County Jail,FL
+MSTHSTX,Methodist Specialty Transplant Hos,TX
+COLUMFL,Columbia County Jail,FL
+NRJDCVA,NW Reg Juv Det Ctr,VA
+CRPHOLD,Corpus Christi EOR Hold Room,TX
+HIPDBAZ,Holiday Inn Pho Dwtn Ballpark,AZ
+LRDMCTX,Laredo Medical Center,TX
+FPSSAWA,Four Pts Sheraton Sea Ap,WA
+CMDHOLD,Batavia Command Center Holdroom,NY
+MHMSATX,Methodist Hospital Metropolitan,TX
+DORCDSC,Dorchester Co Det Ctr,SC
+LEXFCKY,Lexington Processing @ Fayette Co,KY
+ANCHOLD,Anchorage Sub-Office Hold Room,AK
+CHANRAZ,Chandler Reg Med Ctr,AZ
+GCPFCKS,Garden City Processing @ Finney Co,KS
+MHTSATX,Methodist Hospital Texsan,TX
+MTHOSTX,Methodist Hospital South,TX
+PUTMAFL,Putman County Jail,FL
+SCVMCCA,Sharp Chula Vista Medical Center,CA
+STJONFL,St. John's County Jail,FL
+UCHUHCO,Uchealth Unv Hosp Of Co,CO
+BIDHPMA,Beth Israel Deaconess Hosp,MA
+HISDBCA,Holiday Inn SND Bayside,CA
+MHNSATX,Methodist Hospital Northeast,TX
+MHSOSTX,Methodist Hospital Stone Oak,TX
+BIMDCAZ,Banner Ironwood Med Ctr,AZ
+HIRAYTX,Holiday Inn Express & Suites,TX
+LAURITX,Laurel Ridge Treatment Ctr,TX
+PKCNTPA,Pike County Jail,PA
+PKLDHTX,Parkland Hospital,TX
+SMRVLTX,Somervell County Sheriff's Dept.,TX
+WMDBHFL,West Miami Dade Bapt Health Emerg,FL
+BMCSATX,Baptist Medical Center,TX
+CISPVLA,County Inn & Ste By Rad,LA
+CSANOLA,Comfort Suites Alexandria,LA
+FNDDUWI,Fond Du Lac County Sheriff/Jail,WI
+HOLIETX,Holiday Inn Exp SNA Ap,TX
+NEBHSTX,Northeast Baptist Hospital,TX
+CCHRTTX,Cedar Crest Hosp Treat,TX
+DEKABGA,Dekalb County Jail,GA
+LIMMCTX,Limeston Medical Center,TX
+MIRHPRI,Miriam Hospital,RI
+PRSHANM,Presbyterian Hosp Abq,NM
+UCSDHCA,Unv California San Diego Hospital,CA
+ANSGHTX,Anson General Hospital,TX
+BNMCTAZ,Banner Medical Ctr Tucson,AZ
+BSWRRTX,Baylor Scott White Med RR,TX
+CHISLTX,Chi St Luke's Health Mem,TX
+EFMHMFL,Ed Fraser Memorial Hospital,FL
+GMHATGA,Grady Memorial Hospital,GA
+HDHSPNV,Henderson Hospital,NV
+HHCHKTX,Houston Healthcare Hosp,TX
+MVPNHPA,Penn Highlands Clearfield,PA
+NYMARCC,Marcy Correctional,NY
+RESIDTX,Residence Inn Dallas Ap,TX
+RMWYPAZ,Ramada By Wyndham Pho,AZ
+WWDHDNH,Wentworth Douglas Hospital,NH
+AKGSCCC,Goose Creek Correctional Center,AK
+ASWHRTX,Ascension Seton Williams Hosp,TX
+BELMOOH,Belmont County Jail,OH
+BOPPET,Petersburg Fed.Corr.Inst.,VA
+DVHSPNV,Desert View Hospital,NV
+EPCDFTX,El Paso County Detention Facility,TX
+EXTSAAZ,Extended Stay America,AZ
+HASMHTX,Haskell Memorial Hospital,TX
+HCAFMFL,HCA Florida Memorial Hospital,FL
+LIMCJTX,Limestone County Jail,TX
+MWASHVA,Mary Washington Hospital,VA
+NRVRJVA,New River Valley Reg. Jail,VA
+NYEASTC,Eastern C.F. Napanoch,NY
+NYGREAC,Great Meadow C.F.,NY
+NYGROVC,Groveland C.F. Sonyea,NY
+NYMDSTC,Midstate Correctional,NY
+OKMHKTX,Otto Kaiser Memorial Hospital,TX
+RVBHHTX,Rio Vista Behv Hlth Hsp,TX
+SHNMCTX,Shannon Medical Center,TX
+SUWANFL,Suwannee County Jail,FL
+TRRMCNJ,Trinitas Regional Med Ctr,NJ
+UHGMCOH,Univ Hosp Geauga Med Ctr,OH
+UPMCAPA,UPMC Altoona,PA
+ABRMCTX,Abilene Regional Med Ctr,TX
+ANDERSC,Anderson County Det Center,SC
+ANWHMMN,Abbott Northwestern Hosp,MN
+BARTOGA,Bartow Co Jail,GA
+BSTAYTX,Baylor Scott White Md Ctr,TX
+CCCSSTX,Christus Spohn Hosp CC - South,TX
+CHFLDVA,Chesterfield Co. Jail,VA
+CHIHMIA,Chi Health Mercy Council Bluffs,IA
+CRMCFCA,Community Reg Med Center,CA
+DRHCSTX,Dimmit Regional Hospital,TX
+EMBSATX,Embassy Ste Hltn SNA Ap,TX
+ENLMCCA,Enloe Medical Center,CA
+ESAPAAZ,Extended Stay America Pho Ap,AZ
+ESHSATX,Embassy Ste Hltn NW I-10,TX
+FLBREVC,Brevard Correctional,FL
+FREESTX,Freestone County Jail,TX
+GOODCID,Gooding County Jail,ID
+GRAHAAZ,Graham Co Jail Safford AZ,AZ
+GSAMHCA,Good Samaritan Hospital,CA
+HACMCNJ,Hackensack Med Ctr,NJ
+HACTCND,Heart Of America Corr,ND
+HAMILTX,Hamilton County Jail (TX),TX
+HAMPITX,Hampton Inn Pearsall,TX
+HISAXLA,Hampton Inn & Stes Alexandria,LA
+HSELPTX,Hawthorn Stes El Paso Airp,TX
+INDMPIN,Indianapolis Metropolitan PD,IN
+KERNHCA,Kern Medical Hospital,CA
+LCIMCTX,La Copa Inn Hotel,TX
+MEMHOCA,Memorial Hospital Bakersfield,CA
+MRREGVA,Middle River Regional Jail,VA
+NCBHOTX,North Central Baptist Hospital,TX
+NNVMCNV,Northern Nevada Med Ctr,NV
+NYLIVIC,Livingston Correctional,NY
+PMMCAHI,Pali Momi Medical Center,HI
+RAMEPTX,Ramada By Wyndham El Paso,TX
+RDRVHTX,Red River Hospital,TX
+SLBHSTX,St Luke's Baptist Hospital,TX
+THHEBTX,TX Health Meth Hosp Heb,TX
+TRVLIAZ,Traveler's Inn - Phoenix,AZ
+UNIVHNJ,University Hospital,NJ
+VICTOTX,Victoria County Jail,TX
+GTMOACU,JTF Camp Six,CU
+GTMODCU,Migrant Ops Center Main Av622,CU
+BROHOMI,Bronson Methodist Hospital,MI
+CHSRHTX,Christus Santa Rosa Hospital - Med,TX
+BLKREOK,Blackwell Regional Hospital,OK
+CIBOGNM,Cibola General Hospital,NM
+CONHOTX,Connally Memorial Medical Center,TX
+CCHAUTX,Cross Creek Hospital,TX
+GSMCDPA,Geisinger Medical Center,PA
+GRGBVTX,Georgetown Behavioral Hospital,TX
+HAVMCWA,Harborview Medical Center,WA
+LBJHSTX,Harris Health LBJ Hospital,TX
+HNYHOMI,Henry Ford Hospital,MI
+KENTHRI,Kent Hospital,RI
+KNXCHTX,Knox County Hospital,TX
+LPZRHAZ,La Paz Regional Hospital,AZ
+LHMCBMA,Lahey Hospital & Med Ctr,MA
+LVYHOPA,Lehigh Valley Hospital - Pocono,PA
+MHTFHOH,Mercy Health - Tiffin Hospital,OH
+MEMCRCA,Mercy Medical Ctr Redding,CA
+METHOTX,Methodist Hospital,TX
+OSCEOFL,Osceola County Jail,FL
+BIINCCO,"BI Incororated, GEO Group Company",CO
+BOPATL,Atlanta U.S. Pen.,GA
+NASTRNY,Nassau County ICE Trailer,NY
+PBDPDMA,Peabody PD,MA
+MHRHOPA,Milton S. Hershey Medical Center,PA
+PRESBNY,New York Presbyterian Hospital,NY
+PAMSATX,Pam Health Specialty Hospital 1,TX
+KPCHOAZ,Promise Hospital,AZ
+QUEMCHI,Queen's Medical Center,HI
+RIHPRRI,Rhode Island Hospital,RI
+ROCGHNY,Rochester General Hospital,NY
+STJOSCO,Saint Joseph Hospital,CO
+STCHOVA,Sentara Careplex Hospital,VA
+SSHSWMA,South Shore Hospital,MA
+STFRHGA,St Francis Hospital,GA
+STJMCWA,St Joseph Medical Center,WA
+STRMONY,Strong Memorial Hospital,NY
+TACGHWA,Tacoma General Hospital,WA
+UCSDMCA,UC San Diego Medical Center,CA
+UHOSPIN,Union Hospital,IN
+UNMHANM,University of New Mexico Hospital,NM
+WRMEDWI,Watertown Regional Medical Center,WI
+BREVDFL,Brevard County Jail Complex,FL
+SUMTEFL,Sumter County Jail,FL
+FLGLRFL,Flagler County Jail,FL
+WPOHOLD,Williamsport Hold Room,PA
+SMAHOLD,Santa Maria Sub Office ERO,CA
+SYRHOLD,Syracuse Hold Room,NY
+MOAHOLD,Mobile Holdroom,AL
+BLGHOLD,Bowling Green Hold Room,VA
+CCRMHMN,Centracare Rice Memorial Hosp,MN
+LAKCOFL,Lake County Jail,FL
+SMNOLFL,Seminole County Jail,FL
+FLCHACI,"Charlotte CI, Punta Gorda",FL
+BANHOAZ,Banner University Medical Phoenix,AZ
+BOPPHL,FDC Philadelphia,PA
+BAYCOFL,Bay County,FL
+MARIOFL,Marion County Jail,FL
+SROSAFL,Santa Rosa County Jail,FL
+CVANXCA,Central Valley Annex,CA
+CENTRVA,Centra Health,VA
+CSLLFTX,Chi St Luke's H M Lufkin,TX
+BOPLVN,Leavenworth USP,KS
+ECRMCCA,El Centro Regional Med Ctr,CA
+PHOSMGA,Phoebe Sumter Med Ctr,GA
+SPOTSVA,Spotsylvania Reg Med Ctr,VA
+UMEMCNY,United Memorial Med Ctr,NY
+YRMDCAZ,Yuma Regional Med Ctr,AZ
+ADVHDCA,Adventist Health Delano,CA
+HGHBECO,Highlands Behavioral Health,CO
+INTPOOK,Integris Health Ponca City Hospita,OK
+MHFSHMN,M Health Fairview Southdale Hosp,MN
+MCHALMN,Mayo Clinic Health Sys Albert Lea,MN
+SLHTWTX,St Luke's Health - The Woodlands,TX
+BBCHPMI,Bronson Battle Creek Hosp,MI
+MEHOSCA,Mercy Hosp Downtown Bakersfield,CA
+PHPMHGA,Phoebe Putney Memorial Hosp,GA
+PCRMMGA,Piedmount Columbus Reg Midtown MC,GA
+THHMHTX,TX Hlth Harris Meth Hosp,TX
+UPSLHIA,Unity Point Hlth St Lukes Hosp,IA
+JACKSTN,Jackson County Sheriff,TN
+MANATFL,Manatee County Detention-Annex,FL
+ADVHBCA,Adventist Health Bakersfield,CA
+CSSCHVA,Centra Southside Comm Hosp,VA
+CWHCCMP,Commonwealth Healthcare Corp,MP
+HHBTHTX,Harris Health Ben Taub Hospital,TX
+MLPHHMI,McLaren Port Huron Hosp,MI
+MTNITPA,Mount Nittany Medical Center,PA
+NMCOMNE,Nebraska Med Ctr Omaha,NE
+SARASFL,Sarasota County Jail,FL
+EPSSFTX,El Paso Soft Sided Facility,TX
+OKCIMMC,Cimarron Correctional Facility,OK
+BOPBER,FCI Berlin,NH
+WLTSOFL,Walton County Jail,FL
+STGENMO,Ste. Genevieve County Sheriff/Jail,MO
+PUTNMTN,Putnam County Sheriff,TN
+OZARKMO,Ozark County Sheriff'S Office,MO
+PHELPMO,Phelps County Jail,MO
+OHNORWE,Corrections Center of NW Ohio,OH
+LARELKY,Laurel County Corrections,KY
+HPKNSKY,Hopkins County Jail,KY
+CPBDCKY,Campbell Co Det Ctr,KY
+CLARKIN,Clark County Jail,IN
+KENTOKY,Kenton Co Detention Ctr,KY
+CLINTIN,Clinton County Jail,IN
+TGKJLFL,Turner Guiford Knight (TGK) Jail,FL
+BOURBKY,Bourbon Co Det Center,KY
+NLSCOLA,Nelson Coleman Corrections Center,LA
+TBRJLME,Two Bridges Regional Jail,ME
+SAUKCWI,Sauk County Sheriff,WI
+ABIRJVA,B.R.R.J. Abingdon,VA
+GUAMHGU,Guam Memorial Hospital,GU
+UNMEDMD,Univ of Maryland Medical Center,MD
+COXMEMO,Coxhealth Medical Center South,MO
+FRANKPA,Franklin County Jail,PA
+NUMCENY,Nassau Univ Med Ctr,NY
+PKMEDIN,Parkview Regional Medical Center,IN
+POTTRTX,Potter County Jail,TX
+SPRHONY,Spring Valley Hospital,Medical
+SSHNHNY,Southside Hosp Northwell Hlth,NY
+WALTNFL,Walton County D.O.C.,FL
+ADVHCHI,Adventist Health Castle,HI
+AHGRFND,Altru Hospital Grand Forks,ND
+BFLHPNY,Buffalo General Hospital,NY
+CCRMCCA,Contra Costa Reg Med Ctr,CA
+CNTRHWA,Central Washington Hospital,WA
+KENMHNY,Kenmore Mercy Hospital,NY
+MRYHOMO,Mercy Hospital South,MO
+PHELSMO,Phelps Health Hospital,MO
+SNTRHNY,Sunrise Hospital,Medical
+UMASSMA,UMass Memorial Medical Center,MA
+UPSLSIA,Unitypoint Hlth St Lukes Hosp SXC,IA
+VCUHOVA,VCU Health Tappahannock Hospital,VA
